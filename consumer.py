@@ -242,10 +242,11 @@ class TweetListener(StreamListener):
         print('incoming data')
         try:
             list_data = json.loads(data)
-            print(list_data)
             username = list_data['user']['screen_name']
             user_id = list_data['user']['id_str']
             tweet = list_data['text'].lower()
+            print(username)
+            print(tweet)
             tweet_url = 'https://twitter.com/{}/status/{}'.format(
                 username,
                 list_data['id_str']
