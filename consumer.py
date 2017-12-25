@@ -87,12 +87,12 @@ KEYWORDS_MAP = {
 
     vitalik: {
         'all': [],
-        'any': ['casper', 'raiden'],
+        'any': ['casper', 'raiden'] + partnership_keywords,
     },
 
     charlie_lee: {
         'all': [],
-        'any': ['lightning', 'atomic'],
+        'any': ['lightning', 'atomic'] + partnership_keywords,
     },
 
     # coins
