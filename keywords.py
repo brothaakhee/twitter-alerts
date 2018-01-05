@@ -20,13 +20,15 @@ partnership_keywords = [
     'good job',
     'excellent job',
     'amazing job',
+    'selected',
 ]
 
 exchange_keywords = [
     'list',
     'distribute',
     'add',
-    'token sale',
+    'token',
+    'ico',
 ]
 
 social_media_giants = [
