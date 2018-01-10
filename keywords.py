@@ -21,6 +21,8 @@ partnership_keywords = [
     'excellent job',
     'amazing job',
     'selected',
+    'look forward',
+    'looking forward',
 ]
 
 exchange_keywords = [

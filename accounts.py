@@ -33,6 +33,17 @@ quantum = '773009781644677120'
 civic = '4711101020'
 tenx = '4585412124'
 omisego = '831847934534746114'
+tron = '1932662798'
+zeroxproject = '826699259441328128'
+wabi = '885426541185818625'
+icon = '889691121000996864'
+vechain = '908576143975919616'
+nuls = '912987663052836864'
+qtum = '773009781644677120'
+powr = '739770876808167424'
+walton = '903434091650883586'
+chainlink = '129411313'
+iota = '3992601857'
 
 
 # exchanges
@@ -186,6 +197,62 @@ KEYWORDS_MAP = {
         'all': [],
         'any': partnership_keywords + companies + social_media_giants,
     },
+
+    tron: {
+        'all': [],
+        'any': partnership_keywords + companies + social_media_giants,
+    },
+
+    zeroxproject: {
+        'all': [],
+        'any': partnership_keywords + companies + social_media_giants,
+    },
+
+    wabi: {
+        'all': [],
+        'any': partnership_keywords + companies + social_media_giants,
+    },
+
+    icon: {
+        'all': [],
+        'any': partnership_keywords + companies + social_media_giants,
+    },
+
+    vechain: {
+        'all': [],
+        'any': partnership_keywords + companies + social_media_giants,
+    },
+
+    nuls: {
+        'all': [],
+        'any': partnership_keywords + companies + social_media_giants,
+    },
+
+    qtum: {
+        'all': [],
+        'any': partnership_keywords + companies + social_media_giants,
+    },
+
+    powr: {
+        'all': [],
+        'any': partnership_keywords + companies + social_media_giants,
+    },
+
+    chainlink: {
+        'all': [],
+        'any': partnership_keywords + companies + social_media_giants,
+    },
+
+    walton: {
+        'all': [],
+        'any': partnership_keywords + companies + social_media_giants,
+    },
+
+    iota: {
+        'all': [],
+        'any': partnership_keywords + companies + social_media_giants,
+    },
+
 
     # exchanges
     coinbase: {
