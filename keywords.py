@@ -23,6 +23,8 @@ partnership_keywords = [
     'selected',
     'look forward',
     'looking forward',
+    'is here',
+    'has arrive',
 ]
 
 exchange_keywords = [
